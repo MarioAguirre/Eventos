@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Eventos</string>
+    <string name="txtEventos">Eventos</string>
+    <string name="btnAnonima">Anonima</string>
+    <string name="btnImplements">Implements</string>
+    <string name="btnOnClick">OnClick</string>
+</resources>
